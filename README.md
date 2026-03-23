@@ -1,2 +1,24 @@
-# Desenvolver-um-programa-em-Python-que-utiliza-fun-es-para-gerir-o-stock
-O programa deve: Registar novos materiais no stock. Consultar o stock de um material específico. Atualizar a quantidade em stock (adição ou remoção). Exibir o estado geral do stock.
+# 📚 Gestão de Stock de Materiais Escolares
+
+Este projeto consiste num programa em Python que permite gerir o stock de materiais escolares de uma escola.  
+O sistema possibilita o registo, consulta, atualização e visualização geral do stock, utilizando funções para manter o código organizado e modular.
+
+---
+
+## 🧾 Funcionalidades
+
+- Adicionar novos materiais ao stock  
+- Consultar a quantidade disponível de um material  
+- Atualizar o stock (adicionar ou remover unidades)  
+- Exibir o stock geral  
+- Menu interativo simples e intuitivo  
+
+---
+
+## ▶️ Execução
+
+Para executar o programa:
+
+```bash
+python nome_do_ficheiro.py
+
